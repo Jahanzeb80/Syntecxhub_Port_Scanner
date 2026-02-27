@@ -1,0 +1,24 @@
+1st Time result found no open port of 80 at Microsoft.com
+
+
+Target IP or Domain: microsoft.com
+Enter port (e.g., 80) or range (e.g., 20-80): 21-25
+
+Scanning Host: 13.107.213.62
+Time Started: 2026-02-28 00:43:46.284876
+
+Scan Finished. Open Ports: []
+
+
+
+
+2nd Time result found open port of 80 at Google.com
+
+Target IP or Domain: tryhackme.com
+Enter port (e.g., 80) or range (e.g., 20-80): 80
+
+Scanning Host: 172.66.164.239
+Time Started: 2026-02-28 00:44:12.088237
+
+[+] Port    80: OPEN
+Scan Finished. Open Ports: [80]
